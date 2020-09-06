@@ -1,0 +1,131 @@
+<html>
+     <head>
+             <title>xX My First Blog Xx</title>
+     </head>
+       <body>
+             <p><h2 align="center">MY LITTLE BLOG</h2></p>
+             <p>the camilo's first blog <br /> Hi! my name is <i>Juan Camilo</i>
+              <hr /> i'm from colombia and i am new in this... the things in the codes...
+                         <img src="tree.jpg" height="35%" weidth="35%" align="left" /> 
+               </p>
+<p><h3 align="left"> CAMBIANDO DE TEMA... </h3> <br />
+                   i love the electronic music, and all of your subgeners such as amelia lens,
+                    <a  href="https://www.youtube.com/watch?v=GJkuTx1DQzg" target="_blank">
+                     she makes so good music.</a>
+                     for other part i love the sport, some of the sports taht i love are...<br />
+                      <ol>
+                          <li>Basketball</li>
+                          <li>Soccer</li>
+                          <li>sometimes i play the volleyball.</li>
+                          <li>and other games...</li>
+                      </ol></p>
+                 <p><h2 align="center" "strong"> MY FRIENDS...</h2></p>
+             <p align="left"> i think than a i good friends, because they stay with me when i need them, <h3>but</h3>
+                sometimes i thing that in some moment they will leave me, but i am not waiting that, <h3>THEY ARE 
+                MY BESTIES</h3></p><br />
+             <p><h1 align="center"><span>My Skills</span> </h1></p><br />
+               <p><ul>
+                    <li>HTML(A little) <a href="https://www.sololearn.com/Course/HTML/ " target="_blank"> Curso de HTML</a></li>
+                    <li>CSS (nothing) <a href="https://www.sololearn.com/Course/CSS/ " target="_blank"> Curso de CSS</a></li>
+                    <li>JavaScript <a href="https://www.sololearn.com/Course/JavaScript/" target="_blank"> Curso de JavaScript</a></li>
+                      </ul>
+               </p>
+                 <p><h2 align="center"> trying to do a table</h2></p><br />
+            <table border="2" align="center">
+               <tr>
+                  <td>travis scott</td>
+                  <td>Young Thug</td>
+                  <td>21 Savage</td>
+               </tr>
+               <tr>
+                  <td>Quavo</td>
+                  <td colspan="2">Drake</td>
+               </tr>
+            </table> </p>
+ 
+               <p><h2 align="center">My Coding Schedule </h2></p><br />
+            <table align="center" border="2">
+            <tr>
+                <th>DAY</th>
+                <th>MON</th>
+                <th>TUE</th>
+                <th>WED</th>
+                <th>THU</th>
+                <th>FRI</th>
+            </tr>
+            <tr>
+                <td>8-8:30</td>
+                <td class="selected">Learn</td>
+                <td></td>   
+                <td></td>  
+                <td></td>  
+                <td></td>  
+            </tr>
+            <tr>
+                <td>9-10</td>
+                <td></td>
+                <td class="selected">practice</td>
+                <td></td>   
+                <td></td>  
+                <td></td>  
+            </tr>
+            <tr>
+                <td>11-12</td>
+                <td></td>
+                <td></td>
+                <td class="selected">play</td>
+                <td></td>   
+                <td></td>  
+            </tr>
+            <tr>
+                <td>1-1:30</td>
+                <td></td>   
+                <span><td font bgcolor="#000099">see instagram</td></span>
+                <td></td>
+                <td class="selected">watch T.V.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3:45-5</td>   
+                <td></td>
+                <td></td> 
+                <td></td>  
+                <span><td font bgcolor="#00FF00" class="selected">A Rockets game</td></span>
+                <td class="selected">Code</td>
+             </tr>
+             </table> 
+          <h2 align="left"><i>WHO'S BETTER?</i></h2>
+     <form>
+          <input  type="radio" name="likely" value="male">Travis Scott<br /> 
+          <input type="radio" name="likely" value="female">Anuel AA<hr width="95%"/> 
+
+            <div class="section">
+                     <h1><span>My Medi</span></h1>
+                     <iframe height="150" width="300"
+                  src="https://www.youtube.com/watch?v=qAlF70MdfwU&list=RDm7jfM9A6R-k&index=20&ab_channel=TravisScottVEVO"
+                    allowfullscreeen frameborder="0"></iframe>
+            </div>
+                            
+
+     
+
+
+
+
+
+
+
+
+       <h2><span>CONTACT TO ME =) </span></h2><br />
+       <form>
+            <input name="name" type="text" />Tu nombre<br />
+            <input name="email" type="email" />Tu email<br />
+                   <textarea name="message">...</textarea>
+             <input type="submit" value="SEND" class="submit" />
+        </form>
+             
+       
+
+                       
+       </body>
+</html>
